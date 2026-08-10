@@ -8,10 +8,12 @@ import {
   Check,
   Flame,
   Goal,
+  Lightbulb,
   Sparkles,
   Target,
   AlertCircle,
-  Plus
+  Plus,
+  User
 } from 'lucide-react'
 import {
   Bar,
