@@ -1,0 +1,13 @@
+package com.reflect.app;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class ReflectBackendApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
